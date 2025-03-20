@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Implementasi-LifeCycle/static/css/main.e6c13ad2.css",
+    "main.js": "/Implementasi-LifeCycle/static/js/main.0826a3cb.js",
+    "static/js/453.e95f076e.chunk.js": "/Implementasi-LifeCycle/static/js/453.e95f076e.chunk.js",
+    "index.html": "/Implementasi-LifeCycle/index.html",
+    "main.e6c13ad2.css.map": "/Implementasi-LifeCycle/static/css/main.e6c13ad2.css.map",
+    "main.0826a3cb.js.map": "/Implementasi-LifeCycle/static/js/main.0826a3cb.js.map",
+    "453.e95f076e.chunk.js.map": "/Implementasi-LifeCycle/static/js/453.e95f076e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.0826a3cb.js"
+  ]
+}
